@@ -1,5 +1,11 @@
 # vuetify
 
+
+## Add vuetify
+
+```shell
+yarn add vuetify
+```
 ## Project setup
 ```
 yarn install
